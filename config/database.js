@@ -3,7 +3,7 @@ module.exports = {
 	'options': {
 		'user':   'uzxgmbjrfkezj0sjyfu4',
 		'pass':   '4i1Dhiv2bj5fLCwk4F4X',
-		'dbName': 'bvajm3a3bkhl8yf',
+		'dbName': 'admin',
 		'useNewUrlParser': true,
 		'useUnifiedTopology': true,
 		//'autoIndex':       false,
