@@ -1,10 +1,9 @@
-
 module.exports = {
-	'url': 'mongodb+srv://bigsmall-shard-00-00.zoqdj.mongodb.net:27017/test',
+	'url': 'mongodb://bvajm3a3bkhl8yf-mongodb.services.clever-cloud.com:27017/bvajm3a3bkhl8yf'
 	'options': {
-		'user':   'bigsmall',
-		'pass':   '2020abcd',
-		'dbName': 'admin',
+		'user':   'uzxgmbjrfkezj0sjyfu4',
+		'pass':   '4i1Dhiv2bj5fLCwk4F4X',
+		'dbName': 'bvajm3a3bkhl8yf',
 		'useNewUrlParser': true,
 		'useUnifiedTopology': true,
 		//'autoIndex':       false,
