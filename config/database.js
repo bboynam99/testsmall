@@ -1,6 +1,6 @@
 
 module.exports = {
-	'url': 'mongodb+srv://bigsmall-shard-00-02.zoqdj.mongodb.net/test',
+	'url': 'mongodb+srv://bigsmall:2020abcd@bigsmall.zoqdj.mongodb.net/test?retryWrites=true&w=majority',
 	'options': {
 		'user':   'bigsmall',
 		'pass':   '2020abcd',
